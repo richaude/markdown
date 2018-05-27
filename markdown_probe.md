@@ -21,4 +21,6 @@ Markdown is, without blundering into too much technical details, a text-to-html 
 ### The history of Markdown
 #### Thoughts by John Gruber in the *Gruber Manifesto*
 ![John Gruber](https://upload.wikimedia.org/wikipedia/commons/6/64/John_Gruber%2C_2009_%28cropped%29.jpg "John Gruber")
-John Gruber published version 1.0.1 of Markdown in December 2004, there has been no updated version ever since. In a [blogpost](https://daringfireball.net/2004/03/dive_into_markdown) from March 19, 2004, Gruber wrote about his thoughts and motivation to develop Markdown. This blogpost was later called the *Gruber Manifesto* by his colleague Aaron Swartz. ![Aaron Swartz](https://upload.wikimedia.org/wikipedia/commons/0/06/Aaron_Swartz_profile.jpg "Aaron Swartz") In his manifesto, Gruber said that although html was easy, it was...
+
+John Gruber published version 1.0.1 of Markdown in December 2004, there has been no updated version ever since. In a [blogpost](https://daringfireball.net/2004/03/dive_into_markdown) from March 19, 2004, Gruber wrote about his thoughts and motivation to develop Markdown. This blogpost was later called the *Gruber Manifesto* by his colleague Aaron Swartz. ![Aaron Swartz](https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Aaron_Swartz_profile.jpg/346px-Aaron_Swartz_profile.jpg "Aaron Swartz") 
+In his manifesto, Gruber said that although html was easy, it was...
